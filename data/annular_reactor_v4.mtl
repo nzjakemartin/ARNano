@@ -1,0 +1,129 @@
+
+newmtl 1_Solid_Definition1
+Kd 0.1 0.1 0.1
+Ka 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 2_Solid_Definition1
+Kd 0.1 0.1 0.1
+Ka 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 3_Solid_Definition1
+Kd 0.1 0.1 0.1
+Ka 0.1 0.1 0.1
+Ks 0.1 0.1 0.1
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 4_Solid_Definition1
+Kd 0.88 0.86 0.16
+Ka 0.5 0.5 0.5
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 5_Solid_Definition1
+Kd 0.88 0.86 0.16
+Ka 0.5 0.5 0.5
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 6_Solid_Definition1
+Kd 0.51 0.35 0.77
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 7_Solid_Definition1
+Kd 1 0 0
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+newmtl 8_Solid_Definition1
+Kd 1 0 0
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 9_Solid_Definition1
+Kd 1 0 0
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 10_Solid_Definition1
+Kd 1 0 0
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 11_Solid_Definition1
+Kd 1 0 0
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 12_Solid_Definition1
+Kd 1 0 0
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0
+
+newmtl 13_Solid_Definition1
+Kd 1 0 0
+Ka 0 0 0
+Ks 0 0 0
+d 1
+Tf 1.0
+illum 2
+Ns  687.5 
+Ni 1.0

@@ -1,0 +1,48 @@
+
+newmtl 1_Solid_Definition1
+Kd 0 1 1
+d 1
+
+newmtl 2_Solid_Definition1
+Kd 0 0 1
+d 1
+
+newmtl 3_Solid_Definition1
+Kd 1 0 0
+d 1
+
+newmtl 4_Solid_Definition1
+Kd 1 0 1
+d 1
+
+newmtl 5_Solid_Definition1
+Kd 0 0 1
+d 1
+
+newmtl 6_Solid_Definition1
+Kd 1 0 1
+d 1
+
+newmtl 7_Solid_Definition1
+Kd 0 1 1
+d 1
+
+newmtl 8_Solid_Definition1
+Kd 1 1 0
+d 1
+
+newmtl 9_Solid_Definition1
+Kd 1 1 0
+d 1
+
+newmtl 10_Solid_Definition1
+Kd 1 0 1
+d 1
+
+newmtl 11_Solid_Definition1
+Kd 1 0 1
+d 1
+
+newmtl 12_Solid_Definition1
+Kd 0 1 1
+d 1
