@@ -63,9 +63,9 @@ void setup() {
   //キャプチャを作成
   String[] cameras = Capture.list();
   printArray(cameras);
-  //cam=new Capture(this,1280,720);
+  cam=new Capture(this,1280,720); // default webcam
   //cam=new Capture(this,1280,720,"Logitech HD Webcam C270");
-  cam=new Capture(this,cameras[111]);//,1280,720,"TANBERG Video");
+  //cam=new Capture(this,cameras[111]);// on hp laptop with logitech camera
   nya = new MultiMarker(this,width,height,"camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
   nya.addNyIdMarker(0,80);
   nya.addNyIdMarker(1,80);
